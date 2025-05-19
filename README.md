@@ -2,6 +2,8 @@
 
 This is a basic setup of Apache Kafka and Zookeeper using Docker.
 
+We are also connecting the Kafka Cluster to a ui using the kafka ui project
+
 ## 🚀 How to Start the Kafka Application
 
 ### 1) Run this Docker command to run the docker 
